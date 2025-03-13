@@ -1,5 +1,5 @@
 ### "The future depends on what you do today"
-# Software-Engeneering 👩🏾‍💻💻
+# Software-Engineering 👩🏾‍💻💻
 
 ### Este repositório foi criado para informações sobre conceitos importantes, aprendidos durante a graduação.
 
@@ -29,7 +29,8 @@
 
 ## 📚☑️ Tópicos  
 
-- ✨ Modelagem de Sistemas 
+- ✨ [Modelagem de Sistemas](modelagem.md)
+- ✨ [Engenharia de Requisitos](requisitos.md)
 
 
 
