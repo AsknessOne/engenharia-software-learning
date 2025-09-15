@@ -31,6 +31,6 @@
 
 - ✨ [Modelagem de Sistemas](modelagem.md)
 - ✨ [Engenharia de Requisitos](requisitos.md)
-
+- ✨ [Computação em Nuvem - Cloud](cloud-computing.md)
 
 
